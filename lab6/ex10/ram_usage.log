@@ -1,0 +1,6 @@
+Logging RAM usage to ram_usage.log for 2 minutes...
+Tue Dec 10 18:27:11 EET 2024: Total: 13417MB, Used: 13296MB, Free: 121MB, Usage: 99%
+ALERT: Memory usage exceeded 50%! Current usage: 99%
+Tue Dec 10 18:28:11 EET 2024: Total: 13529MB, Used: 13246MB, Free: 283MB, Usage: 97%
+ALERT: Memory usage exceeded 50%! Current usage: 97%
+RAM usage monitoring completed.

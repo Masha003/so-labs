@@ -1,0 +1,5 @@
+Tue Dec 10 17:47:39 EET 2024: Starting network connectivity check...
+Tue Dec 10 17:47:41 EET 2024: Host 'google.com' is reachable.
+Tue Dec 10 17:47:43 EET 2024: Host '8.8.8.8' is reachable.
+Tue Dec 10 17:47:43 EET 2024: Host 'invalid.domain' is unreachable.
+Tue Dec 10 17:47:43 EET 2024: Network connectivity check complete.
